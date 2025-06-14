@@ -68,7 +68,7 @@ echo location of your Java installation. 1>&2
 goto fail
 
 :execute
-@rem Setup the command line
+@rem Setup the command linee
 
 set CLASSPATH=
 
